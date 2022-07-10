@@ -1,0 +1,28 @@
+{
+  "name": "20220704_johnnychen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://lettlebread@bitbucket.org/SeanLin_Alfred/20220704_johnnychen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/SeanLin_Alfred/20220704_johnnychen#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "connect-mongo": "^4.6.0",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "module-alias": "^2.2.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.7.0"
+  },
+  "_moduleAliases": {
+    "@root": "./"
+  }
+}
